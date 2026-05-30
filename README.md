@@ -21,9 +21,9 @@ typedef struct {
     char  *uni;
     char  *focus[3];
     bool   still_learning;
-} Developer;
+} Curious;
 
-Developer ninad = {
+Curious myself = {
     .name         = "Ninad Hazarika",
     .uni          = "Tezpur University — ECE",
     .focus        = { "Embedded Systems", "Low-level C/C++", "Hardware + Software" },
