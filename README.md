@@ -1,5 +1,12 @@
 # hey, I'm Ninad 👋
 
+```c
+/* ECE undergrad @ Tezpur University
+ * Interested in embedded systems & hardware
+ * Still figuring things out, one circuit at a time
+ */
+```
+
 
 ---
 
